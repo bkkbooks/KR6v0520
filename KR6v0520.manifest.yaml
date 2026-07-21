@@ -18,7 +18,7 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0520_000.yaml, hash: 'sha256:a8c79f02520027be1cb57397c89176f1aea1082832756277da95bd8d85ae919f'}
+  - {seq: 0, filename: KR6v0520_000.yaml, hash: 'sha256:7c88709ba256713193dfa85d55e1b5b87d7cff9dd00c608fab7aa83024bf77e2'}
   - {seq: 1, filename: KR6v0520_001.yaml, hash: 'sha256:231d242d89afa96e03b0dada4a152f40d1e4ac8a1d214bbad9c63c2accaa02ee'}
   - {seq: 2, filename: KR6v0520_002.yaml, hash: 'sha256:b1785d7b1ff373715a5ad02942f264d171bb2c45f418b886058b7e112780de0f'}
   - {seq: 3, filename: KR6v0520_003.yaml, hash: 'sha256:cbd0aeae7a982a6672aeefb818a8a6325b23d895e042449e583a55f5d12fbb10'}
@@ -26,7 +26,7 @@ assets:
   - {seq: 5, filename: KR6v0520_005.yaml, hash: 'sha256:7628ca29a538d1b2841937aa0ef1e6901d9b826b79bcd15906077aa66a42ce84'}
   - {seq: 6, filename: KR6v0520_006.yaml, hash: 'sha256:8b36ff569834927de3de397690a9fc3df04061d50d13e16abbdb5d8388167946'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0520_000.markers.yaml, hash: 'sha256:85403508498d6570445b8770594d1ed00be8f8d58cb03b295c9d7e2d54a93fa0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0520_000.markers.yaml, hash: 'sha256:8bfd71069c728ee6f59eb11ffd29c1efef134f3fa98c94d6fe52a8a4dd143d12'}
   - {seq: 1, role: markers, filename: assets/KR6v0520_001.markers.yaml, hash: 'sha256:985738c7ce19a1345497deff44705ab45be5f2dd88dd40c50c7b9b013c2c4bb3'}
   - {seq: 2, role: markers, filename: assets/KR6v0520_002.markers.yaml, hash: 'sha256:3b85e7b49c47469bf7cc22b5dd411126acf151559c5c709ed992e30fa5925889'}
   - {seq: 3, role: markers, filename: assets/KR6v0520_003.markers.yaml, hash: 'sha256:f64b533f8f3623332f939f757d1f9107afed31354dc10a0ccf2a581bfd8b7966'}
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-2
     span:
-    - front
+    - body
     - 553
     - 553
   label: 卷首
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-3
     span:
-    - front
+    - body
     - 553
     - 553
   label: 序
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-4
     span:
-    - front
+    - body
     - 553
     - 553
   label: 陸宗楷序
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-5
     span:
-    - front
+    - body
     - 1188
     - 1188
   label: 周漢傑序
@@ -88,7 +88,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-6
     span:
-    - front
+    - body
     - 1733
     - 1733
   label: 傅巖序
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-7
     span:
-    - front
+    - body
     - 2225
     - 2225
   label: 胡作柄序
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-8
     span:
-    - front
+    - body
     - 2687
     - 2687
   label: 釋實懿序
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-9
     span:
-    - front
+    - body
     - 3055
     - 3055
   label: 寺圖
@@ -128,7 +128,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-10
     span:
-    - front
+    - body
     - 3061
     - 3061
   label: 中峰師像
@@ -138,7 +138,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0520_GA_000-mulu-11
     span:
-    - front
+    - body
     - 3120
     - 3120
   label: 目錄
@@ -4404,7 +4404,7 @@ table_of_contents:
   label: 後跋
   type: mulu
   level: 1
-hash: sha256:385cc9e2b113be975214855ba05e04f435c0f19fa3a43b78e0c94b249506326a
+hash: sha256:db36efb6e69f4585b57bfe89c381cda5927d29373f04451383f45c84b7ee9366
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
